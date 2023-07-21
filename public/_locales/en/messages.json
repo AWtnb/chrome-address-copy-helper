@@ -1,0 +1,8 @@
+{
+  "menu_title": {
+    "message": "Copy (Japanese) address and split postalcode."
+  },
+  "manifest_description": {
+    "message": "Add a context menu to copy Japanese address as postalcode separated with tab."
+  }
+}

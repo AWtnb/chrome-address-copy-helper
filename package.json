@@ -1,7 +1,7 @@
 {
   "name": "chrome-address-copy-helper",
   "version": "0.1.0",
-  "description": "My Chrome Extension",
+  "description": "Add context menu to copy Japanese address as postalcode separated as tab.",
   "private": true,
   "scripts": {
     "watch": "webpack --mode=development --watch --config config/webpack.config.js",

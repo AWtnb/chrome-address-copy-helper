@@ -1,21 +1,10 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Chrome Address Copy Helper
+# README
 
-My Chrome Extension
+Add a context menu to copy Japanese address as postalcode separated with tab.
 
 ## Features
 
-- Feature 1
-- Feature 2
-
-## Install
-
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
-
-## Contribution
-
-Suggestions and pull requests are welcomed!.
-
----
-
-This project was bootstrapped with [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
+- Full width numbers and aplhabets are coverted to half width.
+- Works only on HTTPS sites.
+- It does not matter whether the address is real or not. Postalcode-splitting is by a regular expression.
 
