@@ -1,4 +1,7 @@
 {
+  "ext_name": {
+    "message": "Address Copy Helper"
+  },
   "menu_title": {
     "message": "Copy (Japanese) address and split postalcode."
   },

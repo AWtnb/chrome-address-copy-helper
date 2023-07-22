@@ -1,4 +1,7 @@
 {
+  "ext_name": {
+    "message": "郵便番号切り分けコピー"
+  },
   "menu_title": {
     "message": "郵便番号を切り分けてコピー"
   },
