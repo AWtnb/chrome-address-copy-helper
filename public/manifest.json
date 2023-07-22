@@ -18,7 +18,7 @@
   "permissions": ["contextMenus", "clipboardWrite", "activeTab"],
   "content_scripts": [
     {
-      "matches": ["https://*/*"],
+      "matches": ["<all_urls>"],
       "run_at": "document_idle",
       "js": ["contentScript.js"]
     }
