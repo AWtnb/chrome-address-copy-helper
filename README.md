@@ -1,8 +1,5 @@
-# README
+# FEATURES
 
-![img](./demo.png)
-
-## Features
 
 **Add a context menu to copy Japanese address as postalcode separated with tab.**
 
@@ -12,6 +9,8 @@
 - Works only on HTTPS sites.
 - It does not matter whether the address is real or not. Postalcode is splitted by regular expression.
 - If postalcode is not found in selected text, nothing is copied.
+
+![img](./demo.png)
 
 ---
 
