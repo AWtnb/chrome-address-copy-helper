@@ -9,4 +9,9 @@
 - Horizontal bars between numbers are automatically converted to U+002D (`-`)
 - Works only on HTTPS sites.
 - It does not matter whether the address is real or not. Postalcode is splitted by regular expression.
+- If postalcode is not found in selected text, nothing is copied.
+
+---
+
+Initialized with [chrome-extension-cli](https://github.com/dutiyesh/chrome-extension-cli)
 
