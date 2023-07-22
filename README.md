@@ -1,5 +1,7 @@
 # README
 
+![img](./demo.png)
+
 ## Features
 
 **Add a context menu to copy Japanese address as postalcode separated with tab.**
